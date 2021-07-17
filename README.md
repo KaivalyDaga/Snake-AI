@@ -39,6 +39,8 @@ Solution.txt contains the solution for the shortest path in case of the given ma
 You can view the image of the solution in case of the 10x10 maze using gridFile.png
 ___
 ## Assignment 2 -  Windy Gridworld 
+Worked on this assignment during the last week of May '21
+
 In this assignment, we solve the Windy Gridworld problem of Barton and Sutto's book using different Model-free approaches - SARSA(0), Q-Learning, Expected-SARSA.
 
 This is similar to a random walk experiment.
@@ -57,6 +59,8 @@ You can find the 3 plots in the folder too
 ___
 
 ## Simple RL Agent
+Worked on this during the last week on June and first week of July '21
+
 I have added a simple RL agent that uses Q learning to play the Snake Game. 
 The game has an extremely large state space representation and we must use a reduced representation to make the task feasible.
 
