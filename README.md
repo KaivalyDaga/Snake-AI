@@ -97,6 +97,28 @@ The agent has achieved a maximum score of 79.
 The training time increases exponentially if we increase the state space (improve its vision).
 ___
 
+### Training
+We can get an idea about the training of our model by plotting the average number of fruits eaten by our snake in every 10 episodes as it trains.
+
+For the smaller obstacle state, the training graph is as follows:
+
+![Training graph](./GAME/fruits_episodes_1.png)
+
+For the expanded obstacle state;
+
+![Training graph](./GAME/fruits_episodes.png)
+
+___
+
+### Trained agent
+
+We can plot a histogram of the number of fruits our agent consumes over a span of 100 episodes.
+This gives us an estimate of our performance. I've also added mean and max data outputs on the histogram itself.
+
+![Training graph](./GAME/fruits_episodes_hist.png)
+
+___
+
 The font, graphics and sound folder contain the files required for developing the PyGame based basic game.
 
 Environment.py has the information about the environment i.e. the fruit, walls, snake body etc. that is fed to the algorithm.
