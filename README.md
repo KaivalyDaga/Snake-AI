@@ -112,7 +112,7 @@ ___
 
 ### Trained agent
 
-We can plot a histogram of the number of fruits our agent consumes over a span of 100 episodes.
+We can plot a histogram of the number of fruits our agent consumes over a span of 300 episodes.
 This gives us an estimate of our performance. I've also added mean and max data outputs on the histogram itself.
 
 ![Training graph](./GAME/fruits_episodes_hist.png)
