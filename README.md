@@ -139,5 +139,14 @@ You can see that training the expanded obstacle space is much slower.
 
 **fruits_episodes_hist.png** shows the histogram data of the number of fruits the *trained snake* eats across 100 episodes.
 
+___
+## Future Prospects
+
+I plan on using the Deep Learning approach and using CNNs for better performance using an expanded state space.
+
+___ 
+
 ## Resources
 [Learning Resources](https://www.notion.so/SOC-Snake-AI-Project-471ff57983a24f749ca0ec08df8c9472 "Learning Resources")
+
+____
