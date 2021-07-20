@@ -6,9 +6,9 @@ In this project, I built the very popular Nokia Snake Game from scratch and then
 ___
 ## GIFs
 <p align="center">
-<img src="/GAME/gif/first_few_episodes.gif" width="290">
- <img src="/GAME/gif/ep100-min.gif" width="290">
- <img src="/GAME/gif/ep200-min.gif" width="290">
+<img src="/GAME/gif/first_few_episodes.gif" width="260">
+ <img src="/GAME/gif/ep100-min.gif" width="260">
+ <img src="/GAME/gif/ep200-min.gif" width="260">
   <img src="/GAME/gif/ep250-min.gif" width="300">
   <img src="/GAME/gif/epfinal-min.gif" width="300">
 </p>
