@@ -9,8 +9,8 @@ ___
 <img src="/GAME/gif/first_few_episodes.gif" width="260">
  <img src="/GAME/gif/ep100-min.gif" width="260">
  <img src="/GAME/gif/ep200-min.gif" width="260">
-  <img src="/GAME/gif/ep250-min.gif" width="370">
-  <img src="/GAME/gif/epfinal-min.gif" width="370">
+  <img src="/GAME/gif/ep250-min.gif" width="392">
+  <img src="/GAME/gif/epfinal-min.gif" width="392">
 </p>
 
 The above gifs show how the snake trained during the first few episodes, after a 100, 200, 250 and then 400 episodes ultimately.
