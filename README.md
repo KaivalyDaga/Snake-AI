@@ -5,8 +5,13 @@ In this project, I built the very popular Nokia Snake Game from scratch and then
 
 ___
 ## GIFs
+<p>
+<img src = "/GAME/gif/first_few_episodes.gif" width="300">
+ <img src="/GAME/gif/ep100-min.gif" width="300">
+ <img src="/GAME/gif/ep200-min.gif" width="300">
+</p>
 
-<img src="/GAME/gif/first_few_episodes.gif" width="300"> </img>
+The above gifs show how the snake trained during the first few episodes, after a 100, 200, 250 and then 400 episodes ultimately.
 ___
 ## Game Demo
 This is a keyboard controlled version of the game.
