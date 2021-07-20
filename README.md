@@ -4,7 +4,10 @@ This repository contains the files and the code for my WnCC Summer of Code - 202
 In this project, I built the very popular Nokia Snake Game from scratch and then implemented basic Reinforcement Learning (RL) techniques to help the snake master the game and get really high scores. The RL agent is capable of learning on its own by exploring its environment to determine the best action to take in a certain situation.
 
 ___
+## GIFs
 
+
+___
 ## Game Demo
 This is a keyboard controlled version of the game.
 You can find the basic game demo
