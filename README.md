@@ -6,7 +6,7 @@ In this project, I built the very popular Nokia Snake Game from scratch and then
 ___
 ## GIFs
 
-
+<img src="/GAME/gif/first_few_episodes.gif" width="300"> </img>
 ___
 ## Game Demo
 This is a keyboard controlled version of the game.
